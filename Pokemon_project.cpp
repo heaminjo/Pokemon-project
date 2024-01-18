@@ -3,7 +3,7 @@
 #include <iostream>
 
 using namespace std;
-int aa=0;
+
 int pokemon = 0;
 class Monster {
 public:
