@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <iostream>
-
+//수정 완료
 using namespace std;
 
 int pokemon = 0;
